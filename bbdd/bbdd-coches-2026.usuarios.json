@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6ae33046727e34526ceeac00"
+  },
+  "username": "pepe",
+  "password": "$2b$10$LRC2/5r0Xvag7OJ8kd0bc.GQmdy37kwRK.BPBLKcAu0Tlqlvo.h9W",
+  "nombre": "pepe",
+  "email": "pepe@gmail.com",
+  "enable": true,
+  "rol": "ADMON",
+  "createdAt": {
+    "$date": "2026-10-29T11:38:46.040Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-29T11:38:46.040Z"
+  }
+}]

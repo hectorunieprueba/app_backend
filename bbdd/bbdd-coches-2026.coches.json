@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "6ae32bf34919d3f3a44b42d0"
+  },
+  "marca": "BMW",
+  "modelo": "M3 Competition",
+  "anio": 2001,
+  "isVendido": false,
+  "extras": [
+    "Techo solar",
+    "Asientos calefactables",
+    "Cámara 360"
+  ],
+  "createdAt": {
+    "$date": "2026-10-29T11:20:19.285Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-29T11:20:19.285Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae32bf34919d3f3a44b42d1"
+  },
+  "marca": "Audi",
+  "modelo": "RS6 Avant",
+  "anio": 2023,
+  "isVendido": true,
+  "extras": [
+    "Sonido Bang & Olufsen",
+    "Faros Matrix LED",
+    "Control de crucero adaptativo"
+  ],
+  "createdAt": {
+    "$date": "2026-10-29T11:20:19.287Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-29T11:20:19.287Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae32bf34919d3f3a44b42d2"
+  },
+  "marca": "Mercedes-Benz",
+  "modelo": "AMG C63",
+  "anio": 2024,
+  "isVendido": false,
+  "extras": [
+    "Paquete AMG",
+    "Cámara trasera",
+    "Asientos deportivos"
+  ],
+  "createdAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae32bf34919d3f3a44b42d3"
+  },
+  "marca": "Porsche",
+  "modelo": "911 Carrera",
+  "anio": 2023,
+  "isVendido": false,
+  "extras": [
+    "Escape deportivo",
+    "Suspensión adaptativa",
+    "Asientos de cuero"
+  ],
+  "createdAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae32bf34919d3f3a44b42d4"
+  },
+  "marca": "Ford",
+  "modelo": "Mustang GT",
+  "anio": 2024,
+  "isVendido": true,
+  "extras": [
+    "Escape deportivo",
+    "Cámara trasera"
+  ],
+  "createdAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae32bf34919d3f3a44b42d5"
+  },
+  "marca": "Toyota",
+  "modelo": "GR Supra",
+  "anio": 2023,
+  "isVendido": false,
+  "extras": [
+    "Asientos deportivos",
+    "Apple CarPlay",
+    "Sensores de aparcamiento"
+  ],
+  "createdAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae32bf34919d3f3a44b42d6"
+  },
+  "marca": "Honda",
+  "modelo": "Civic Type R",
+  "anio": 2024,
+  "isVendido": false,
+  "extras": [
+    "Alerón deportivo",
+    "Navegador",
+    "Cámara trasera"
+  ],
+  "createdAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae32bf34919d3f3a44b42d7"
+  },
+  "marca": "Volkswagen",
+  "modelo": "Golf R",
+  "anio": 2023,
+  "isVendido": true,
+  "extras": [
+    "Techo solar",
+    "Asientos calefactables",
+    "Android Auto"
+  ],
+  "createdAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae32bf34919d3f3a44b42d8"
+  },
+  "marca": "Nissan",
+  "modelo": "GT-R",
+  "anio": 2022,
+  "isVendido": false,
+  "extras": [
+    "Sistema Bose",
+    "Asientos deportivos",
+    "Suspensión adaptativa"
+  ],
+  "createdAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ae32bf34919d3f3a44b42d9"
+  },
+  "marca": "Mazda",
+  "modelo": "MX-5",
+  "anio": 2024,
+  "isVendido": false,
+  "extras": [
+    "Asientos de cuero",
+    "Sistema Bose"
+  ],
+  "createdAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-29T11:20:19.288Z"
+  }
+}]
